@@ -1,5 +1,5 @@
 # XCode-Custom-Theme
-Custom theme that I made for XCode. 
+My personal XCode theme that I made. Honestly, I have it here so I can keep using it when changing laptop for work but feel free to use it! 
 
 ## How to Install 
   Using wget 
